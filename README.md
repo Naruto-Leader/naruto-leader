@@ -8,7 +8,7 @@
 # Favourite saying
   
 ```rust
-/// Chain-Reactor's motto
+/// Naruto-Leader's motto
 struct MarkZuckerberg;
 
 impl MarkZuckerberg {
